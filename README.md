@@ -1,6 +1,6 @@
 [![Header](https://mir-s3-cdn-cf.behance.net/738ae8a852e5c6556c7a3d97956d04c9/3feae507-0fc5-4bf0-a45f-262d4ffeb406_rwc_497x0x2633x410x3200.png?h=d4f30ac36a564d904f5b3ff0e2be7b0d "Header")](https://mir-s3-cdn-cf.behance.net/738ae8a852e5c6556c7a3d97956d04c9/3feae507-0fc5-4bf0-a45f-262d4ffeb406_rwc_497x0x2633x410x3200.png?h=d4f30ac36a564d904f5b3ff0e2be7b0d)
-<h1 align="left">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="left">My name is Sujan Monger and a UI/UX Designer from the Kingdom of Bhutan.</h3>
+<h3 align="left">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<p align="left">My name is Sujan Monger and a UI/UX Designer from the Kingdom of Bhutan.<p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujanmonger&label=Profile%20views&color=0e75b6&style=flat" alt="sujanmonger" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sujanale12" target="blank"><img src="https://img.shields.io/twitter/follow/sujanale12?logo=twitter&style=for-the-badge" alt="sujanale12" /></a> </p>
