@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/sujanale12" target="blank"><img src="https://img.shields.io/twitter/follow/sujanale12?logo=twitter&style=for-the-badge" alt="sujanale12" /></a> </p>
 
-- 🔭 I’m currently working on [My profile](https://github.com/sujanmonger/portfolio)
+- 🔭 I’m currently working on [Portfolio](https://github.com/sujanmonger/portfolio)
 
 - 🌱 I’m currently learning **JS, ReactJS, NextJS, MUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sujanmonger/portfolio](https://github.com/sujanmonger/portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/sujanmonger/portfolio)
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJS, MUI**
 
 - 📫 How to reach me **sujanallaymongar506@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sujanmonger/portfolio](https://github.com/sujanmonger/portfolio)
+- 📄 Know about my experiences [Resume](https://github.com/sujanmonger/portfolio)
 
 - ⚡ Fun fact **I am Funny**
 
